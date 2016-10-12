@@ -1,5 +1,6 @@
 #!/bin/bash
 # www.garanet.net
+# If you need to remove files periodically, you can make a cronjob with an easy bash script like this one.
 # https://github.com/garanet/rm_old_files_script
 
 # SET YOUR VARIABLES
